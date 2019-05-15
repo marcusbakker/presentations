@@ -1,2 +1,1 @@
-# publications
-Publications
+# Publications and presentations
